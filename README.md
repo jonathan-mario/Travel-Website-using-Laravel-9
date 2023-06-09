@@ -1,3 +1,12 @@
+![1](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/8c74ff52-2666-4e0d-ab2b-35b91a1c863f)
+![2](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/070e91ed-6d99-4cfd-b1eb-3622cae306da)
+![3](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/bc8f4827-096d-4800-9002-b414c61e06fd)
+![4](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/b22eecde-f13a-4689-a45e-a7b603c11ce4)
+![5](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/af08f515-e015-412a-8b3c-5a0f9ddd2090)
+![6](https://github.com/mario085/Travel-Website-using-Laravel-9/assets/69971608/63ba1827-7712-4e74-a035-6bdf4b1c33d1)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
